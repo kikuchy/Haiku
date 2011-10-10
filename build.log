@@ -1,0 +1,14 @@
+Logfile initialized
+[INFO] logfile = /Users/kagiya/Documents/Titanium Studio Workspace/Haiku/build.log
+[DEBUG] /Library/Application Support/Titanium/mobilesdk/osx/1.7.2/android/builder.py simulator Haiku /Users/kagiya/SDK/android /Users/kagiya/Documents/Titanium Studio Workspace/Haiku net.kikuchy.haiku 17 WXGA 
+[INFO] Building Haiku for Android ... one moment
+[INFO] Titanium SDK version: 1.7.2 (07/21/11 09:36 97c3689)
+[DEBUG] Waiting for device to be ready ...
+[TRACE] adb devices returned 0 devices/emulators
+[TRACE] adb devices returned 0 devices/emulators
+[TRACE] adb devices returned 0 devices/emulators
+[TRACE] adb devices returned 0 devices/emulators
+[TRACE] adb devices returned 0 devices/emulators
+[TRACE] adb devices returned 0 devices/emulators
+[ERROR] Timed out waiting for emulator to be ready, you may need to close the emulator and try again
+[INFO] Android Emulator has exited
